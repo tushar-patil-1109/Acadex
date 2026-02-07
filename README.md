@@ -113,51 +113,51 @@ University-Management-System/
 ## 🖼️ Application Screenshots
 
 ###  🔐 Login Page
-<img width="734" height="367" alt="Screenshot 2026-02-06 173456" src="https://github.com/user-attachments/assets/b294a915-12e6-4819-9f5e-dd8f620ee4bf" />
+<img width="734" height="367" alt="Screenshot 2026-02-07 021530" src="https://github.com/user-attachments/assets/3e24b334-f301-417f-bd15-c190599a66d3" />
 <br> <br>
 
 ###  🏠 Admin Dashboard
-<img width="1909" height="1054" alt="Screenshot 2026-02-06 173507" src="https://github.com/user-attachments/assets/32537658-1134-4f89-96e7-6f89e539ad28" />
+<img width="1909" height="1054" alt="Screenshot 2026-02-07 021615" src="https://github.com/user-attachments/assets/e3629915-a337-4fdc-8501-7dbb4ec719c7" />
 <br> <br>
 
 ###  👨‍🎓 Add Student
-<img width="1109" height="867" alt="Screenshot 2026-02-06 173825" src="https://github.com/user-attachments/assets/2564934a-71c0-443c-b046-d6d672c9a0f8" />
+<img width="1109" height="867" alt="Screenshot 2026-02-07 021642" src="https://github.com/user-attachments/assets/88ac9378-e356-4d43-b5ae-ce8b35f0e67e" />
 <br> <br>
 
 ###  📋 Student Details
-<img width="1109" height="867" alt="Screenshot 2026-02-06 173850" src="https://github.com/user-attachments/assets/0b6c7e22-f25a-4035-8933-908a67e60e2a" />
+<img width="1109" height="867" alt="Screenshot 2026-02-07 021702" src="https://github.com/user-attachments/assets/35188a33-6fed-4635-a046-23834131f8c8" />
 <br> <br>
 
 ###  👨‍🎓 Update Student Details
-<img width="1109" height="804" alt="Screenshot 2026-02-06 174046" src="https://github.com/user-attachments/assets/2b19cb20-56d6-4b83-b82e-68a855a8363a" />
+<img width="1109" height="804" alt="Screenshot 2026-02-07 021801" src="https://github.com/user-attachments/assets/dd711a3b-4acf-43f3-bea5-0f4beaaf311f" />
 <br> <br> 
 
 ###   👩‍🏫 Add Faculty
-<img width="1109" height="867" alt="Screenshot 2026-02-06 173651" src="https://github.com/user-attachments/assets/a296188d-e6af-4251-ad2b-1917da2989a1" />
+<img width="1109" height="867" alt="Screenshot 2026-02-07 021632" src="https://github.com/user-attachments/assets/1eb383ad-3e59-40a9-95d4-e413e5704306" />
 <br> <br>
 
 ###  📋 Faculty Details
-<img width="1109" height="867" alt="Screenshot 2026-02-06 173840" src="https://github.com/user-attachments/assets/97107e82-01d4-4b90-943a-b9c831c3a2d7" />
+<img width="1109" height="867" alt="Screenshot 2026-02-07 021652" src="https://github.com/user-attachments/assets/67a626dd-e67e-4798-81a4-88cc6b68cec8" />
 <br> <br>
 
 ###  👩‍🏫 Update Faculty Details
-<img width="1109" height="804" alt="Screenshot 2026-02-06 174056" src="https://github.com/user-attachments/assets/ef3f7cde-9423-4988-9211-01e742b11d2d" />
+<img width="1109" height="804" alt="Screenshot 2026-02-07 021752" src="https://github.com/user-attachments/assets/af194db1-635d-4d63-9634-2c1e62cd7960" />
 <br> <br>
 
 ###  📚 Results
-<img width="1234" height="586" alt="Screenshot 2026-02-06 174010" src="https://github.com/user-attachments/assets/f47a2b53-7302-491e-9cc1-7502d26d9a23" />
+<img width="1234" height="586" alt="Screenshot 2026-02-07 021723" src="https://github.com/user-attachments/assets/85bf44d9-00c2-4a94-8cb3-fb3756126f61" />
 <br> <br>
 
 ###  💸 Fees Structure
-<img width="1234" height="867" alt="Screenshot 2026-02-06 174115" src="https://github.com/user-attachments/assets/af16de1a-6465-48d0-9051-74ff3844c364" />
+<img width="1234" height="867" alt="Screenshot 2026-02-07 021812" src="https://github.com/user-attachments/assets/0ec170e0-054d-48a2-96db-7b3b6c2feb0f" />
 <br> <br>
 
 ###  💸 Fees Payment
-<img width="1109" height="617" alt="Screenshot 2026-02-06 174125" src="https://github.com/user-attachments/assets/09a1d97a-2b9a-4c5b-934d-2cae4f4a4b27" />
+<img width="1109" height="617" alt="Screenshot 2026-02-07 021822" src="https://github.com/user-attachments/assets/7d276fd5-bf21-49c6-b719-86e18e9e34ed" />
 <br> <br>
 
 ###  🔐 About
-<img width="859" height="617" alt="Screenshot 2026-02-06 174228" src="https://github.com/user-attachments/assets/84996e8c-209b-420b-9060-4d5273e4115c" />
+<img width="859" height="617" alt="Screenshot 2026-02-07 021832" src="https://github.com/user-attachments/assets/fa3bb276-73e3-49c6-a7fb-3d1e77a53964" />
 
 ---
 
